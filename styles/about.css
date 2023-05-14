@@ -1,0 +1,167 @@
+body {
+    font-family: 'Raleway', sans-serif !important;
+    margin: 0px !important;
+}
+
+#owner {
+    margin: 15px !important;
+}
+
+a i {
+
+    color: red;
+}
+
+
+
+/* NavBar Section Start-----------------------------------------------------------*/
+.selected {
+    color: red !important;
+
+
+}
+
+.navbar {
+    padding: 25px !important;
+    background-color: #ffffff;
+}
+
+
+.navbar ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar li {
+    margin: 0 20px;
+    position: relative;
+}
+
+.navbar li a {
+    text-decoration: none;
+    color: #333;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.navbar li::after {
+    content: '';
+    position: absolute;
+    bottom: -10px;
+    left: 0;
+    width: 100%;
+    height: 3px;
+    background-color: #333;
+    transform: scaleX(0);
+    transition: transform 0.3s ease-in-out;
+}
+
+.navbar li:hover::after {
+    transform: scaleX(1);
+}
+
+.navbar li:active {
+    transform: scaleX(1);
+}
+
+
+
+
+
+
+
+
+
+
+/* NavBar Section End-----------------------------------------------------------*/
+
+
+
+
+
+
+.portfolio-img-back {
+    background-color: #BBD6B8;
+    width: 40%;
+    height: 25%;
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    margin-top: 80px;
+
+
+
+}
+
+
+.card {
+    width: 80%;
+    background-color: #BBD6B8 !important;
+    border-radius: 0px !important;
+    position: relative;
+    top: 20px;
+    right: -200px;
+
+
+}
+
+hr {
+    margin: auto !important;
+    width: 40%;
+    color: red;
+    border: 2px solid red !important;
+    opacity: 1 !important;
+
+
+}
+
+.card-footer {
+    border-radius: 0% !important;
+}
+
+.card-footer i:hover {
+    cursor: pointer;
+}
+
+.protfolio-img {
+    width: 70%;
+    border-radius: 50%;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+
+.bounce {
+    animation-name: bounce;
+    animation-duration: 2s;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+}
+
+@keyframes bounce {
+    0% {
+        transform: translateY(0);
+    }
+
+    50% {
+        transform: translateY(-10px);
+    }
+
+    100% {
+        transform: translateY(0);
+    }
+}
+
+
+.affiliation-section {
+    position: relative;
+    top: 80px;
+    left: 90px;
+    margin-top: 40px;
+}
