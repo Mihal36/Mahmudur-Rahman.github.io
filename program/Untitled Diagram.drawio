@@ -1,9 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2024-05-18T16:06:12.110Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="24.3.1" etag="uEVgTlipX5R7BrB7kk9F" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-18T16:14:01.992Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="L8B6yi5ChdDKjk8YAMTG" version="24.3.1" type="github">
   <diagram name="Page-1" id="Dmjo71Lcl-OfX87rBMfT">
-    <mxGraphModel>
+    <mxGraphModel dx="1312" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="hPw8DL4wyIfRUR1PFFiF-1" value="Government Agencies" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="260" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hPw8DL4wyIfRUR1PFFiF-2" value="Donor Agencies" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="670" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hPw8DL4wyIfRUR1PFFiF-3" value="Implementing Organizations" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="670" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hPw8DL4wyIfRUR1PFFiF-4" value="Citizens" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="260" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hPw8DL4wyIfRUR1PFFiF-6" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="220" y="260" width="480" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="hPw8DL4wyIfRUR1PFFiF-8" value="Project Management" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hPw8DL4wyIfRUR1PFFiF-9" value="Data-Driven Decision Making" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hPw8DL4wyIfRUR1PFFiF-10" value="Improved Coordination" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hPw8DL4wyIfRUR1PFFiF-11" value="Transparency and Accountability" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="524" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
